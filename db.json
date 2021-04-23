@@ -1,6 +1,6 @@
   
 {
-  "disciplinas": [
+  "produtos": [
   { "id": 1, "produto": "Playstation 5", "preco": "R$5.000,00" },
   { "id": 2, "produto": "Playstation 4", "preco": "R$5.000,00" },
   { "id": 3, "produto": "Playstation 3", "preco": "R$5.000,00" },
