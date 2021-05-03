@@ -1,10 +1,11 @@
-  
 {
-  "produtos": [
-  { "id": 1, "produto": "Playstation 5", "preco": "R$5.000,00" },
-  { "id": 2, "produto": "Playstation 4", "preco": "R$5.000,00" },
-  { "id": 3, "produto": "Playstation 3", "preco": "R$5.000,00" },
-  { "id": 4, "produto": "Playstation 2", "preco": "R$5.000,00" },
-  { "id": 5, "produto": "Playstation 1", "preco": "R$5.000,00"}
-  ]
+    "produtos": [
+
+        {"id": 1, "produto": "Play5", "preco": "R$5.000,00"},
+        {"id": 2, "produto": "Play4", "preco": "R$4.000,00"},
+        {"id": 3, "produto": "Play3", "preco": "R$3.000,00"},
+        {"id": 4, "produto": "Play2", "preco": "R$2.000,00"},
+        {"id": 5, "produto": "Play1", "preco": "R$1.000,00"}
+
+    ]
 }
